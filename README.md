@@ -1,42 +1,40 @@
-# rock-paper-scissors-game-code
-Code for Rock Paper Scissors Game
+# Rock Paper Scissors Game Code
 
-access here - https://rock-paper-scissors-game-six-tau.vercel.app/
+![Seva Connect](/image.png)
 
-This is a classic #Rock-Paper-Scissors game implemented using HTML, CSS, and JavaScript.
+This is a classic Rock-Paper-Scissors game implemented using HTML, CSS, and JavaScript.
 
-Features:
+## Features
 
-User-friendly interface for selecting rock, paper, or scissors.
-Clear display of user and computer choices.
-Dynamic announcement of the winner (user, computer, or tie).
-Optional: Ability to track score (wins, losses, and ties).
-Getting Started
+- User-friendly interface for selecting rock, paper, or scissors.
+- Clear display of user and computer choices.
+- Dynamic announcement of the winner (user, computer, or tie).
+- Optional: Ability to track score (wins, losses, and ties).
 
-Clone this repository:
+## Playing the Game
+- Click the buttons labeled "Rock", "Paper", or "Scissors" to make your selection.
+- The computer will randomly choose its move.
+- The winner (user, computer, or draw) will be displayed on the screen.
 
-Bash
-git clone https://github.com/<your-username>/rock-paper-scissors.git
-Use code with caution.
-Open the index.html file in your web browser.
+## Technologies Used
 
-Playing the Game
+- HTML: Provides the structure of the web page.
+- CSS: Styles the visual elements of the game (buttons, text, etc.).
+- JavaScript: Adds interactivity and logic to the game (user input, computer choice, result determination, and optional score tracking).
 
-Click the buttons labeled "Rock", "Paper", or "Scissors" to make your selection.
-The computer will randomly choose its move.
-The winner (user, computer, or tie) will be displayed on the screen.
-Optional: Score Tracking (implementation details vary)
+## Live Demo
 
-If you've implemented score tracking, the current score (wins, losses, and ties) will be displayed.
-Technologies Used
+Check out the live demo of Seva Connect [here](https://rock-paper-scissors-game-six-tau.vercel.app/)!
 
-HTML: Provides the structure of the web page.
-CSS: Styles the visual elements of the game (buttons, text, etc.).
-JavaScript: Adds interactivity and logic to the game (user input, computer choice, result determination, and optional score tracking).
-Customization
+
+## Customization
 
 Feel free to customize the following aspects of the game:
 
-Visual appearance (colors, fonts, etc.) using CSS.
-Game logic and scoring system (if desired) using JavaScript.
-Enjoy playing Rock-Paper-Scissors!
+- Visual appearance (colors, fonts, etc.) using CSS.
+- Game logic and scoring system (if desired) using JavaScript.
+- Contributing
+
+If you'd like to contribute to this project, you're welcome to fork the repository and submit pull requests with your improvements or additions.
+
+Happy browsing!
